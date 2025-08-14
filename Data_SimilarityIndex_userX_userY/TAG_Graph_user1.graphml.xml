@@ -1,0 +1,848 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="node" attr.name="name" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="user:Amaia">
+  <data key="d0">user</data>
+  <data key="d1">Amaia</data>
+</node>
+<node id="7BRD7x5pt8Lqa1eGYC4dzj">
+  <data key="d0">track</data>
+  <data key="d1">CHIHIRO</data>
+</node>
+<node id="6qqNVTkY8uBg9cP3Jd7DAH">
+  <data key="d0">artist</data>
+  <data key="d1">Billie Eilish</data>
+</node>
+<node id="art pop">
+  <data key="d0">genre</data>
+  <data key="d1">art pop</data>
+</node>
+<node id="pop">
+  <data key="d0">genre</data>
+  <data key="d1">pop</data>
+</node>
+<node id="4yNk9iz9WVJikRFle3XEvn">
+  <data key="d0">track</data>
+  <data key="d1">golden hour</data>
+</node>
+<node id="164Uj4eKjl6zTBKfJLFKKK">
+  <data key="d0">artist</data>
+  <data key="d1">JVKE</data>
+</node>
+<node id="modern indie pop">
+  <data key="d0">genre</data>
+  <data key="d1">modern indie pop</data>
+</node>
+<node id="pov: indie">
+  <data key="d0">genre</data>
+  <data key="d1">pov: indie</data>
+</node>
+<node id="singer-songwriter pop">
+  <data key="d0">genre</data>
+  <data key="d1">singer-songwriter pop</data>
+</node>
+<node id="1Fg4Eu1f6fo0T02LZqkRn7">
+  <data key="d0">track</data>
+  <data key="d1">Flaka</data>
+</node>
+<node id="5gdLCbByMUjFLhbOj8NC14">
+  <data key="d0">artist</data>
+  <data key="d1">Poison Kid</data>
+</node>
+<node id="trap chileno">
+  <data key="d0">genre</data>
+  <data key="d1">trap chileno</data>
+</node>
+<node id="urbano chileno">
+  <data key="d0">genre</data>
+  <data key="d1">urbano chileno</data>
+</node>
+<node id="3UtLkgHIdKZm4dHrf0aWzz">
+  <data key="d0">artist</data>
+  <data key="d1">DiabloPablo &amp; Looseboi</data>
+</node>
+<node id="1CsMKhwEmNnmvHUuO5nryA">
+  <data key="d0">track</data>
+  <data key="d1">SKINNY</data>
+</node>
+<node id="1HrMWH5GUdK6Yi94rbANJA">
+  <data key="d0">track</data>
+  <data key="d1">Cola</data>
+</node>
+<node id="240wlM8vDrf6S4zCyzGj2W">
+  <data key="d0">artist</data>
+  <data key="d1">CamelPhat</data>
+</node>
+<node id="deep tech house">
+  <data key="d0">genre</data>
+  <data key="d1">deep tech house</data>
+</node>
+<node id="house">
+  <data key="d0">genre</data>
+  <data key="d1">house</data>
+</node>
+<node id="progressive house">
+  <data key="d0">genre</data>
+  <data key="d1">progressive house</data>
+</node>
+<node id="uk dance">
+  <data key="d0">genre</data>
+  <data key="d1">uk dance</data>
+</node>
+<node id="2vf4pRsEY6LpL5tKmqWb64">
+  <data key="d0">artist</data>
+  <data key="d1">Elderbrook</data>
+</node>
+<node id="2HafqoJbgXdtjwCOvNEF14">
+  <data key="d0">track</data>
+  <data key="d1">Si No Estás</data>
+</node>
+<node id="0jbo7KFNMiIkfBR6ih0yhm">
+  <data key="d0">artist</data>
+  <data key="d1">iñigo quintero</data>
+</node>
+<node id="2GAhgAjOhEmItWLfgisyOn">
+  <data key="d0">track</data>
+  <data key="d1">Low</data>
+</node>
+<node id="7tYKF4w9nC0nq9CsPZTHyP">
+  <data key="d0">artist</data>
+  <data key="d1">SZA</data>
+</node>
+<node id="r&amp;b">
+  <data key="d0">genre</data>
+  <data key="d1">r&amp;b</data>
+</node>
+<node id="rap">
+  <data key="d0">genre</data>
+  <data key="d1">rap</data>
+</node>
+<node id="0V5cvmTKsYmF5FmGGEAfmS">
+  <data key="d0">track</data>
+  <data key="d1">Je te laisserai des mots</data>
+</node>
+<node id="7bPs6jf983f0bjRAt1yxDM">
+  <data key="d0">artist</data>
+  <data key="d1">Patrick Watson</data>
+</node>
+<node id="indie folk">
+  <data key="d0">genre</data>
+  <data key="d1">indie folk</data>
+</node>
+<node id="indie quebecois">
+  <data key="d0">genre</data>
+  <data key="d1">indie quebecois</data>
+</node>
+<node id="2qPSa6HXjzwa9sLhNGpA1T">
+  <data key="d0">track</data>
+  <data key="d1">Home</data>
+</node>
+<node id="15K8w0bfYieOr55vhSMgJN">
+  <data key="d0">artist</data>
+  <data key="d1">Edith Whiskers</data>
+</node>
+<node id="3w8oi6Xa3TJgdwmKmgZ32o">
+  <data key="d0">track</data>
+  <data key="d1">Frequency Of Love</data>
+</node>
+<node id="1hzfo8twXdOegF3xireCYs">
+  <data key="d0">artist</data>
+  <data key="d1">Milky Chance</data>
+</node>
+<node id="german pop">
+  <data key="d0">genre</data>
+  <data key="d1">german pop</data>
+</node>
+<node id="modern rock">
+  <data key="d0">genre</data>
+  <data key="d1">modern rock</data>
+</node>
+<node id="29bl4Sr23RrFR0o8mSvPJ2">
+  <data key="d0">track</data>
+  <data key="d1">La Posada</data>
+</node>
+<node id="3BCFlhrVzBKHbzBnWr13d9">
+  <data key="d0">artist</data>
+  <data key="d1">Sebastián Cortés</data>
+</node>
+<node id="tontipop">
+  <data key="d0">genre</data>
+  <data key="d1">tontipop</data>
+</node>
+<node id="4mkCQKEe89EI0kn0Q7tMyK">
+  <data key="d0">artist</data>
+  <data key="d1">Alba Reche</data>
+</node>
+<node id="latin talent show">
+  <data key="d0">genre</data>
+  <data key="d1">latin talent show</data>
+</node>
+<node id="latin viral pop">
+  <data key="d0">genre</data>
+  <data key="d1">latin viral pop</data>
+</node>
+<node id="3QaPy1KgI7nu9FJEQUgn6h">
+  <data key="d0">track</data>
+  <data key="d1">WILDFLOWER</data>
+</node>
+<node id="1v1oIWf2Xgh54kIWuKsDf6">
+  <data key="d0">track</data>
+  <data key="d1">Runaway</data>
+</node>
+<node id="1WgXqy2Dd70QQOU7Ay074N">
+  <data key="d0">artist</data>
+  <data key="d1">AURORA</data>
+</node>
+<node id="norwegian pop">
+  <data key="d0">genre</data>
+  <data key="d1">norwegian pop</data>
+</node>
+<node id="54KFQB6N4pn926IUUYZGzK">
+  <data key="d0">track</data>
+  <data key="d1">To Build A Home</data>
+</node>
+<node id="32ogthv0BdaSMPml02X9YB">
+  <data key="d0">artist</data>
+  <data key="d1">The Cinematic Orchestra</data>
+</node>
+<node id="downtempo">
+  <data key="d0">genre</data>
+  <data key="d1">downtempo</data>
+</node>
+<node id="nu jazz">
+  <data key="d0">genre</data>
+  <data key="d1">nu jazz</data>
+</node>
+<node id="1Y3LN4zO1Edc2EluIoSPJN">
+  <data key="d0">track</data>
+  <data key="d1">Until I Found You (with Em Beihold) - Em Beihold Version</data>
+</node>
+<node id="5XKFrudbV4IiuE5WuTPRmT">
+  <data key="d0">artist</data>
+  <data key="d1">Stephen Sanchez</data>
+</node>
+<node id="gen z singer-songwriter">
+  <data key="d0">genre</data>
+  <data key="d1">gen z singer-songwriter</data>
+</node>
+<node id="7o2ZQYM7nTsaVdkXY38UAA">
+  <data key="d0">artist</data>
+  <data key="d1">Em Beihold</data>
+</node>
+<node id="alt z">
+  <data key="d0">genre</data>
+  <data key="d1">alt z</data>
+</node>
+<node id="2dono2Koz7DEvGwxUsmMLq">
+  <data key="d0">track</data>
+  <data key="d1">Linger - SiriusXM Session</data>
+</node>
+<node id="5b5bt4mZQpJMoCRbiQ7diH">
+  <data key="d0">artist</data>
+  <data key="d1">Royel Otis</data>
+</node>
+<node id="australian indie rock">
+  <data key="d0">genre</data>
+  <data key="d1">australian indie rock</data>
+</node>
+<node id="0u2P5u6lvoDfwTYjAADbn4">
+  <data key="d0">track</data>
+  <data key="d1">lovely (with Khalid)</data>
+</node>
+<node id="6LuN9FCkKOj5PcnpouEgny">
+  <data key="d0">artist</data>
+  <data key="d1">Khalid</data>
+</node>
+<node id="pop r&amp;b">
+  <data key="d0">genre</data>
+  <data key="d1">pop r&amp;b</data>
+</node>
+<node id="3xpNfnoJCRb48gn5ifSLPd">
+  <data key="d0">track</data>
+  <data key="d1">De plata y madera</data>
+</node>
+<node id="4bJh7sMPcVRiqe5jlnsWQV">
+  <data key="d0">artist</data>
+  <data key="d1">DELLAFUENTE</data>
+</node>
+<node id="flamenco urbano">
+  <data key="d0">genre</data>
+  <data key="d1">flamenco urbano</data>
+</node>
+<node id="urbano espanol">
+  <data key="d0">genre</data>
+  <data key="d1">urbano espanol</data>
+</node>
+<node id="1Ix5ads4niaRP9TnT08gqI">
+  <data key="d0">artist</data>
+  <data key="d1">Israel Fernández</data>
+</node>
+<node id="cante flamenco">
+  <data key="d0">genre</data>
+  <data key="d1">cante flamenco</data>
+</node>
+<node id="flamenco">
+  <data key="d0">genre</data>
+  <data key="d1">flamenco</data>
+</node>
+<node id="nuevo flamenco">
+  <data key="d0">genre</data>
+  <data key="d1">nuevo flamenco</data>
+</node>
+<node id="7ro0hRteUMfnOioTFI5TG1">
+  <data key="d0">track</data>
+  <data key="d1">WHERE SHE GOES</data>
+</node>
+<node id="4q3ewBCX7sLwd24euuV69X">
+  <data key="d0">artist</data>
+  <data key="d1">Bad Bunny</data>
+</node>
+<node id="reggaeton">
+  <data key="d0">genre</data>
+  <data key="d1">reggaeton</data>
+</node>
+<node id="trap latino">
+  <data key="d0">genre</data>
+  <data key="d1">trap latino</data>
+</node>
+<node id="urbano latino">
+  <data key="d0">genre</data>
+  <data key="d1">urbano latino</data>
+</node>
+<node id="5PGMTslc0lwjAmbYC4b9B6">
+  <data key="d0">track</data>
+  <data key="d1">No Se K Me Pasa</data>
+</node>
+<node id="6jlSEjqfJnED7otnU0lRoy">
+  <data key="d0">artist</data>
+  <data key="d1">Chill Mafia Records</data>
+</node>
+<node id="euskal reggae">
+  <data key="d0">genre</data>
+  <data key="d1">euskal reggae</data>
+</node>
+<node id="2x6JVTDJNTmVZxxOGYZKND">
+  <data key="d0">artist</data>
+  <data key="d1">Kiliki</data>
+</node>
+<node id="1Emea6iLt1X27HTatnL7oV">
+  <data key="d0">artist</data>
+  <data key="d1">Ben Yart</data>
+</node>
+<node id="0jhPpyUbC4zYPoNWJ0PQLt">
+  <data key="d0">artist</data>
+  <data key="d1">LaJoyeria</data>
+</node>
+<node id="5bd81aIHJgQ4RYK0jkZSZR">
+  <data key="d0">track</data>
+  <data key="d1">31014</data>
+</node>
+<node id="3o0OhPbX6vz6lzn63kg2CE">
+  <data key="d0">track</data>
+  <data key="d1">No te lo niego, ma dolío</data>
+</node>
+<node id="3JvKfv6T31zO0ini8iNItO">
+  <data key="d0">track</data>
+  <data key="d1">Another Love</data>
+</node>
+<node id="2txHhyCwHjUEpJjWrEyqyX">
+  <data key="d0">artist</data>
+  <data key="d1">Tom Odell</data>
+</node>
+<node id="chill pop">
+  <data key="d0">genre</data>
+  <data key="d1">chill pop</data>
+</node>
+<node id="1s9i7W8zx7Nxx78MUIsvjV">
+  <data key="d0">track</data>
+  <data key="d1">Outro</data>
+</node>
+<node id="63MQldklfxkjYDoUE4Tppz">
+  <data key="d0">artist</data>
+  <data key="d1">M83</data>
+</node>
+<node id="french shoegaze">
+  <data key="d0">genre</data>
+  <data key="d1">french shoegaze</data>
+</node>
+<node id="french synthpop">
+  <data key="d0">genre</data>
+  <data key="d1">french synthpop</data>
+</node>
+<node id="indietronica">
+  <data key="d0">genre</data>
+  <data key="d1">indietronica</data>
+</node>
+<node id="metropopolis">
+  <data key="d0">genre</data>
+  <data key="d1">metropopolis</data>
+</node>
+<node id="neo-synthpop">
+  <data key="d0">genre</data>
+  <data key="d1">neo-synthpop</data>
+</node>
+<node id="6xGruZOHLs39ZbVccQTuPZ">
+  <data key="d0">track</data>
+  <data key="d1">Glimpse of Us</data>
+</node>
+<node id="3MZsBdqDrRTJihTHQrO6Dq">
+  <data key="d0">artist</data>
+  <data key="d1">Joji</data>
+</node>
+<node id="viral pop">
+  <data key="d0">genre</data>
+  <data key="d1">viral pop</data>
+</node>
+<node id="2Kz5qeXifBxE0zmuoVchlM">
+  <data key="d0">track</data>
+  <data key="d1">Wings</data>
+</node>
+<node id="2WX2uTcsvV5OnS0inACecP">
+  <data key="d0">artist</data>
+  <data key="d1">Birdy</data>
+</node>
+<node id="neo mellow">
+  <data key="d0">genre</data>
+  <data key="d1">neo mellow</data>
+</node>
+<node id="uk pop">
+  <data key="d0">genre</data>
+  <data key="d1">uk pop</data>
+</node>
+<node id="6me7F0aaZjwDo6RJ5MrfBD">
+  <data key="d0">track</data>
+  <data key="d1">Evergreen</data>
+</node>
+<node id="4qU7IJSReZnsLy5907Mtau">
+  <data key="d0">artist</data>
+  <data key="d1">Richy Mitch &amp; The Coal Miners</data>
+</node>
+<node id="modern folk rock">
+  <data key="d0">genre</data>
+  <data key="d1">modern folk rock</data>
+</node>
+<node id="5sF7hdYvhrcgNq8NZjfK8L">
+  <data key="d0">track</data>
+  <data key="d1">Not About Angels</data>
+</node>
+<node id="2prqm9sPLj10B4Wg0wE5x9">
+  <data key="d0">track</data>
+  <data key="d1">BLUE</data>
+</node>
+<node id="0HRshWRNAwQBROvxXqG3i9">
+  <data key="d0">track</data>
+  <data key="d1">Skinny Love</data>
+</node>
+<node id="6pWgRkpqVfxnj3WuIcJ7WP">
+  <data key="d0">track</data>
+  <data key="d1">Cornfield Chase</data>
+</node>
+<node id="0YC192cP3KPCRWx8zr8MfZ">
+  <data key="d0">artist</data>
+  <data key="d1">Hans Zimmer</data>
+</node>
+<node id="german soundtrack">
+  <data key="d0">genre</data>
+  <data key="d1">german soundtrack</data>
+</node>
+<node id="orchestral soundtrack">
+  <data key="d0">genre</data>
+  <data key="d1">orchestral soundtrack</data>
+</node>
+<node id="soundtrack">
+  <data key="d0">genre</data>
+  <data key="d1">soundtrack</data>
+</node>
+<node id="5iu3rl4feYeRgR1DW0ydNU">
+  <data key="d0">track</data>
+  <data key="d1">Miserable Man</data>
+</node>
+<node id="33NVpKoXjItPwUJTMZIOiY">
+  <data key="d0">artist</data>
+  <data key="d1">David Kushner</data>
+</node>
+<node id="6zWU7YALeEDMcPGhKKZJhV">
+  <data key="d0">track</data>
+  <data key="d1">Navajo</data>
+</node>
+<node id="3ycxRkcZ67ALN3GQJ57Vig">
+  <data key="d0">artist</data>
+  <data key="d1">Masego</data>
+</node>
+<node id="alternative r&amp;b">
+  <data key="d0">genre</data>
+  <data key="d1">alternative r&amp;b</data>
+</node>
+<node id="indie soul">
+  <data key="d0">genre</data>
+  <data key="d1">indie soul</data>
+</node>
+<node id="43zdsphuZLzwA9k4DJhU0I">
+  <data key="d0">track</data>
+  <data key="d1">when the party's over</data>
+</node>
+<node id="57vf6m5VOQDsQkNzVPaot5">
+  <data key="d0">track</data>
+  <data key="d1">Cuando la cosa no me va buena</data>
+</node>
+<node id="6ZFbXIJkuI1dVNWvzJzown">
+  <data key="d0">track</data>
+  <data key="d1">Time</data>
+</node>
+<node id="1j7JcRkfW2OJgPnh7fDtHh">
+  <data key="d0">track</data>
+  <data key="d1">Consentia</data>
+</node>
+<node id="1En99nPXGfJS8pgU1UiU0s">
+  <data key="d0">track</data>
+  <data key="d1">People Help the People</data>
+</node>
+<node id="780be5fB7823aHG06mwTat">
+  <data key="d0">track</data>
+  <data key="d1">Baianá</data>
+</node>
+<node id="3MyFDtqB80WZvbtCZRsekM">
+  <data key="d0">artist</data>
+  <data key="d1">Bakermat</data>
+</node>
+<node id="minimal tech house">
+  <data key="d0">genre</data>
+  <data key="d1">minimal tech house</data>
+</node>
+<node id="tropical house">
+  <data key="d0">genre</data>
+  <data key="d1">tropical house</data>
+</node>
+<node id="3qhlB30KknSejmIvZZLjOD">
+  <data key="d0">track</data>
+  <data key="d1">End of Beginning</data>
+</node>
+<node id="5p9HO3XC5P3BLxJs5Mtrhm">
+  <data key="d0">artist</data>
+  <data key="d1">Djo</data>
+</node>
+<node id="psychedelic pop">
+  <data key="d0">genre</data>
+  <data key="d1">psychedelic pop</data>
+</node>
+<node id="5PNvgiKSwMdjBsDsgFCFLX">
+  <data key="d0">track</data>
+  <data key="d1">Slow Down (feat. Jorja Smith) - Vintage Culture &amp; Slow Motion Remix</data>
+</node>
+<node id="0ukgrNYk51TkMQr0f2Br4Q">
+  <data key="d0">artist</data>
+  <data key="d1">Maverick Sabre</data>
+</node>
+<node id="irish hip hop">
+  <data key="d0">genre</data>
+  <data key="d1">irish hip hop</data>
+</node>
+<node id="1CoZyIx7UvdxT5c8UkMzHd">
+  <data key="d0">artist</data>
+  <data key="d1">Jorja Smith</data>
+</node>
+<node id="uk contemporary r&amp;b">
+  <data key="d0">genre</data>
+  <data key="d1">uk contemporary r&amp;b</data>
+</node>
+<node id="28uJnu5EsrGml2tBd7y8ts">
+  <data key="d0">artist</data>
+  <data key="d1">Vintage Culture</data>
+</node>
+<node id="brazilian edm">
+  <data key="d0">genre</data>
+  <data key="d1">brazilian edm</data>
+</node>
+<node id="6jmHuLfbWlq34KedQ7mA5I">
+  <data key="d0">artist</data>
+  <data key="d1">Slow Motion</data>
+</node>
+<node id="relaxative">
+  <data key="d0">genre</data>
+  <data key="d1">relaxative</data>
+</node>
+<node id="6VzcQuzTNTMFnJ6rBSaLH9">
+  <data key="d0">track</data>
+  <data key="d1">Fine Line</data>
+</node>
+<node id="6KImCVD70vtIoJWnq6nGn3">
+  <data key="d0">artist</data>
+  <data key="d1">Harry Styles</data>
+</node>
+<node id="447r2keRxpkINmWYp83MlH">
+  <data key="d0">track</data>
+  <data key="d1">Maquiavélico</data>
+</node>
+<node id="1wGIhYkKWSq4yACtTkCkSX">
+  <data key="d0">artist</data>
+  <data key="d1">Canserbero</data>
+</node>
+<node id="boom bap espanol">
+  <data key="d0">genre</data>
+  <data key="d1">boom bap espanol</data>
+</node>
+<node id="rap conciencia">
+  <data key="d0">genre</data>
+  <data key="d1">rap conciencia</data>
+</node>
+<node id="rap politico">
+  <data key="d0">genre</data>
+  <data key="d1">rap politico</data>
+</node>
+<node id="venezuelan hip hop">
+  <data key="d0">genre</data>
+  <data key="d1">venezuelan hip hop</data>
+</node>
+<node id="0Gr2XQOIMaaUH86iOrWGur">
+  <data key="d0">track</data>
+  <data key="d1">Arrival of the Birds</data>
+</node>
+<node id="3fYr24qYhJejxewFrckFE4">
+  <data key="d0">artist</data>
+  <data key="d1">London Metropolitan Orchestra</data>
+</node>
+<node id="6CcJMwBtXByIz4zQLzFkKc">
+  <data key="d0">track</data>
+  <data key="d1">i love you</data>
+</node>
+<node id="6fPan2saHdFaIHuTSatORv">
+  <data key="d0">track</data>
+  <data key="d1">L’AMOUR DE MA VIE</data>
+</node>
+<node id="0ofHAoxe9vBkTCp2UQIavz">
+  <data key="d0">track</data>
+  <data key="d1">Dreams - 2004 Remaster</data>
+</node>
+<node id="08GQAI4eElDnROBrJRGE0X">
+  <data key="d0">artist</data>
+  <data key="d1">Fleetwood Mac</data>
+</node>
+<node id="album rock">
+  <data key="d0">genre</data>
+  <data key="d1">album rock</data>
+</node>
+<node id="classic rock">
+  <data key="d0">genre</data>
+  <data key="d1">classic rock</data>
+</node>
+<node id="rock">
+  <data key="d0">genre</data>
+  <data key="d1">rock</data>
+</node>
+<node id="soft rock">
+  <data key="d0">genre</data>
+  <data key="d1">soft rock</data>
+</node>
+<node id="yacht rock">
+  <data key="d0">genre</data>
+  <data key="d1">yacht rock</data>
+</node>
+<node id="08wnOyN1wyMaNrup3m353f">
+  <data key="d0">track</data>
+  <data key="d1">My Tears Are Becoming a Sea</data>
+</node>
+<node id="6dOtVTDdiauQNBQEDOtlAB">
+  <data key="d0">track</data>
+  <data key="d1">BIRDS OF A FEATHER</data>
+</node>
+<node id="0tMSssfxAL2oV8Vri0mFHE">
+  <data key="d0">track</data>
+  <data key="d1">listen before i go</data>
+</node>
+<edge source="user:Amaia" target="7BRD7x5pt8Lqa1eGYC4dzj"/>
+<edge source="user:Amaia" target="4yNk9iz9WVJikRFle3XEvn"/>
+<edge source="user:Amaia" target="1Fg4Eu1f6fo0T02LZqkRn7"/>
+<edge source="user:Amaia" target="1CsMKhwEmNnmvHUuO5nryA"/>
+<edge source="user:Amaia" target="1HrMWH5GUdK6Yi94rbANJA"/>
+<edge source="user:Amaia" target="2HafqoJbgXdtjwCOvNEF14"/>
+<edge source="user:Amaia" target="2GAhgAjOhEmItWLfgisyOn"/>
+<edge source="user:Amaia" target="0V5cvmTKsYmF5FmGGEAfmS"/>
+<edge source="user:Amaia" target="2qPSa6HXjzwa9sLhNGpA1T"/>
+<edge source="user:Amaia" target="3w8oi6Xa3TJgdwmKmgZ32o"/>
+<edge source="user:Amaia" target="29bl4Sr23RrFR0o8mSvPJ2"/>
+<edge source="user:Amaia" target="3QaPy1KgI7nu9FJEQUgn6h"/>
+<edge source="user:Amaia" target="1v1oIWf2Xgh54kIWuKsDf6"/>
+<edge source="user:Amaia" target="54KFQB6N4pn926IUUYZGzK"/>
+<edge source="user:Amaia" target="1Y3LN4zO1Edc2EluIoSPJN"/>
+<edge source="user:Amaia" target="2dono2Koz7DEvGwxUsmMLq"/>
+<edge source="user:Amaia" target="0u2P5u6lvoDfwTYjAADbn4"/>
+<edge source="user:Amaia" target="3xpNfnoJCRb48gn5ifSLPd"/>
+<edge source="user:Amaia" target="7ro0hRteUMfnOioTFI5TG1"/>
+<edge source="user:Amaia" target="5PGMTslc0lwjAmbYC4b9B6"/>
+<edge source="user:Amaia" target="5bd81aIHJgQ4RYK0jkZSZR"/>
+<edge source="user:Amaia" target="3o0OhPbX6vz6lzn63kg2CE"/>
+<edge source="user:Amaia" target="3JvKfv6T31zO0ini8iNItO"/>
+<edge source="user:Amaia" target="1s9i7W8zx7Nxx78MUIsvjV"/>
+<edge source="user:Amaia" target="6xGruZOHLs39ZbVccQTuPZ"/>
+<edge source="user:Amaia" target="2Kz5qeXifBxE0zmuoVchlM"/>
+<edge source="user:Amaia" target="6me7F0aaZjwDo6RJ5MrfBD"/>
+<edge source="user:Amaia" target="5sF7hdYvhrcgNq8NZjfK8L"/>
+<edge source="user:Amaia" target="2prqm9sPLj10B4Wg0wE5x9"/>
+<edge source="user:Amaia" target="0HRshWRNAwQBROvxXqG3i9"/>
+<edge source="user:Amaia" target="6pWgRkpqVfxnj3WuIcJ7WP"/>
+<edge source="user:Amaia" target="5iu3rl4feYeRgR1DW0ydNU"/>
+<edge source="user:Amaia" target="6zWU7YALeEDMcPGhKKZJhV"/>
+<edge source="user:Amaia" target="43zdsphuZLzwA9k4DJhU0I"/>
+<edge source="user:Amaia" target="57vf6m5VOQDsQkNzVPaot5"/>
+<edge source="user:Amaia" target="6ZFbXIJkuI1dVNWvzJzown"/>
+<edge source="user:Amaia" target="1j7JcRkfW2OJgPnh7fDtHh"/>
+<edge source="user:Amaia" target="1En99nPXGfJS8pgU1UiU0s"/>
+<edge source="user:Amaia" target="780be5fB7823aHG06mwTat"/>
+<edge source="user:Amaia" target="3qhlB30KknSejmIvZZLjOD"/>
+<edge source="user:Amaia" target="5PNvgiKSwMdjBsDsgFCFLX"/>
+<edge source="user:Amaia" target="6VzcQuzTNTMFnJ6rBSaLH9"/>
+<edge source="user:Amaia" target="447r2keRxpkINmWYp83MlH"/>
+<edge source="user:Amaia" target="0Gr2XQOIMaaUH86iOrWGur"/>
+<edge source="user:Amaia" target="6CcJMwBtXByIz4zQLzFkKc"/>
+<edge source="user:Amaia" target="6fPan2saHdFaIHuTSatORv"/>
+<edge source="user:Amaia" target="0ofHAoxe9vBkTCp2UQIavz"/>
+<edge source="user:Amaia" target="08wnOyN1wyMaNrup3m353f"/>
+<edge source="user:Amaia" target="6dOtVTDdiauQNBQEDOtlAB"/>
+<edge source="user:Amaia" target="0tMSssfxAL2oV8Vri0mFHE"/>
+<edge source="7BRD7x5pt8Lqa1eGYC4dzj" target="6qqNVTkY8uBg9cP3Jd7DAH"/>
+<edge source="6qqNVTkY8uBg9cP3Jd7DAH" target="art pop"/>
+<edge source="6qqNVTkY8uBg9cP3Jd7DAH" target="pop"/>
+<edge source="6qqNVTkY8uBg9cP3Jd7DAH" target="1CsMKhwEmNnmvHUuO5nryA"/>
+<edge source="6qqNVTkY8uBg9cP3Jd7DAH" target="3QaPy1KgI7nu9FJEQUgn6h"/>
+<edge source="6qqNVTkY8uBg9cP3Jd7DAH" target="0u2P5u6lvoDfwTYjAADbn4"/>
+<edge source="6qqNVTkY8uBg9cP3Jd7DAH" target="2prqm9sPLj10B4Wg0wE5x9"/>
+<edge source="6qqNVTkY8uBg9cP3Jd7DAH" target="43zdsphuZLzwA9k4DJhU0I"/>
+<edge source="6qqNVTkY8uBg9cP3Jd7DAH" target="6CcJMwBtXByIz4zQLzFkKc"/>
+<edge source="6qqNVTkY8uBg9cP3Jd7DAH" target="6fPan2saHdFaIHuTSatORv"/>
+<edge source="6qqNVTkY8uBg9cP3Jd7DAH" target="6dOtVTDdiauQNBQEDOtlAB"/>
+<edge source="6qqNVTkY8uBg9cP3Jd7DAH" target="0tMSssfxAL2oV8Vri0mFHE"/>
+<edge source="art pop" target="1WgXqy2Dd70QQOU7Ay074N"/>
+<edge source="pop" target="7tYKF4w9nC0nq9CsPZTHyP"/>
+<edge source="pop" target="6LuN9FCkKOj5PcnpouEgny"/>
+<edge source="pop" target="6KImCVD70vtIoJWnq6nGn3"/>
+<edge source="4yNk9iz9WVJikRFle3XEvn" target="164Uj4eKjl6zTBKfJLFKKK"/>
+<edge source="164Uj4eKjl6zTBKfJLFKKK" target="modern indie pop"/>
+<edge source="164Uj4eKjl6zTBKfJLFKKK" target="pov: indie"/>
+<edge source="164Uj4eKjl6zTBKfJLFKKK" target="singer-songwriter pop"/>
+<edge source="pov: indie" target="5p9HO3XC5P3BLxJs5Mtrhm"/>
+<edge source="singer-songwriter pop" target="33NVpKoXjItPwUJTMZIOiY"/>
+<edge source="1Fg4Eu1f6fo0T02LZqkRn7" target="5gdLCbByMUjFLhbOj8NC14"/>
+<edge source="1Fg4Eu1f6fo0T02LZqkRn7" target="3UtLkgHIdKZm4dHrf0aWzz"/>
+<edge source="5gdLCbByMUjFLhbOj8NC14" target="trap chileno"/>
+<edge source="5gdLCbByMUjFLhbOj8NC14" target="urbano chileno"/>
+<edge source="1HrMWH5GUdK6Yi94rbANJA" target="240wlM8vDrf6S4zCyzGj2W"/>
+<edge source="1HrMWH5GUdK6Yi94rbANJA" target="2vf4pRsEY6LpL5tKmqWb64"/>
+<edge source="240wlM8vDrf6S4zCyzGj2W" target="deep tech house"/>
+<edge source="240wlM8vDrf6S4zCyzGj2W" target="house"/>
+<edge source="240wlM8vDrf6S4zCyzGj2W" target="progressive house"/>
+<edge source="240wlM8vDrf6S4zCyzGj2W" target="uk dance"/>
+<edge source="uk dance" target="2vf4pRsEY6LpL5tKmqWb64"/>
+<edge source="2HafqoJbgXdtjwCOvNEF14" target="0jbo7KFNMiIkfBR6ih0yhm"/>
+<edge source="2GAhgAjOhEmItWLfgisyOn" target="7tYKF4w9nC0nq9CsPZTHyP"/>
+<edge source="7tYKF4w9nC0nq9CsPZTHyP" target="r&amp;b"/>
+<edge source="7tYKF4w9nC0nq9CsPZTHyP" target="rap"/>
+<edge source="r&amp;b" target="1CoZyIx7UvdxT5c8UkMzHd"/>
+<edge source="0V5cvmTKsYmF5FmGGEAfmS" target="7bPs6jf983f0bjRAt1yxDM"/>
+<edge source="7bPs6jf983f0bjRAt1yxDM" target="indie folk"/>
+<edge source="7bPs6jf983f0bjRAt1yxDM" target="indie quebecois"/>
+<edge source="7bPs6jf983f0bjRAt1yxDM" target="54KFQB6N4pn926IUUYZGzK"/>
+<edge source="2qPSa6HXjzwa9sLhNGpA1T" target="15K8w0bfYieOr55vhSMgJN"/>
+<edge source="3w8oi6Xa3TJgdwmKmgZ32o" target="1hzfo8twXdOegF3xireCYs"/>
+<edge source="1hzfo8twXdOegF3xireCYs" target="german pop"/>
+<edge source="1hzfo8twXdOegF3xireCYs" target="modern rock"/>
+<edge source="29bl4Sr23RrFR0o8mSvPJ2" target="3BCFlhrVzBKHbzBnWr13d9"/>
+<edge source="29bl4Sr23RrFR0o8mSvPJ2" target="4mkCQKEe89EI0kn0Q7tMyK"/>
+<edge source="3BCFlhrVzBKHbzBnWr13d9" target="tontipop"/>
+<edge source="4mkCQKEe89EI0kn0Q7tMyK" target="latin talent show"/>
+<edge source="4mkCQKEe89EI0kn0Q7tMyK" target="latin viral pop"/>
+<edge source="1v1oIWf2Xgh54kIWuKsDf6" target="1WgXqy2Dd70QQOU7Ay074N"/>
+<edge source="1WgXqy2Dd70QQOU7Ay074N" target="norwegian pop"/>
+<edge source="54KFQB6N4pn926IUUYZGzK" target="32ogthv0BdaSMPml02X9YB"/>
+<edge source="32ogthv0BdaSMPml02X9YB" target="downtempo"/>
+<edge source="32ogthv0BdaSMPml02X9YB" target="nu jazz"/>
+<edge source="32ogthv0BdaSMPml02X9YB" target="0Gr2XQOIMaaUH86iOrWGur"/>
+<edge source="1Y3LN4zO1Edc2EluIoSPJN" target="5XKFrudbV4IiuE5WuTPRmT"/>
+<edge source="1Y3LN4zO1Edc2EluIoSPJN" target="7o2ZQYM7nTsaVdkXY38UAA"/>
+<edge source="5XKFrudbV4IiuE5WuTPRmT" target="gen z singer-songwriter"/>
+<edge source="gen z singer-songwriter" target="7o2ZQYM7nTsaVdkXY38UAA"/>
+<edge source="gen z singer-songwriter" target="33NVpKoXjItPwUJTMZIOiY"/>
+<edge source="7o2ZQYM7nTsaVdkXY38UAA" target="alt z"/>
+<edge source="2dono2Koz7DEvGwxUsmMLq" target="5b5bt4mZQpJMoCRbiQ7diH"/>
+<edge source="5b5bt4mZQpJMoCRbiQ7diH" target="australian indie rock"/>
+<edge source="0u2P5u6lvoDfwTYjAADbn4" target="6LuN9FCkKOj5PcnpouEgny"/>
+<edge source="6LuN9FCkKOj5PcnpouEgny" target="pop r&amp;b"/>
+<edge source="3xpNfnoJCRb48gn5ifSLPd" target="4bJh7sMPcVRiqe5jlnsWQV"/>
+<edge source="3xpNfnoJCRb48gn5ifSLPd" target="1Ix5ads4niaRP9TnT08gqI"/>
+<edge source="4bJh7sMPcVRiqe5jlnsWQV" target="flamenco urbano"/>
+<edge source="4bJh7sMPcVRiqe5jlnsWQV" target="urbano espanol"/>
+<edge source="4bJh7sMPcVRiqe5jlnsWQV" target="3o0OhPbX6vz6lzn63kg2CE"/>
+<edge source="4bJh7sMPcVRiqe5jlnsWQV" target="57vf6m5VOQDsQkNzVPaot5"/>
+<edge source="4bJh7sMPcVRiqe5jlnsWQV" target="1j7JcRkfW2OJgPnh7fDtHh"/>
+<edge source="urbano espanol" target="1Emea6iLt1X27HTatnL7oV"/>
+<edge source="1Ix5ads4niaRP9TnT08gqI" target="cante flamenco"/>
+<edge source="1Ix5ads4niaRP9TnT08gqI" target="flamenco"/>
+<edge source="1Ix5ads4niaRP9TnT08gqI" target="nuevo flamenco"/>
+<edge source="7ro0hRteUMfnOioTFI5TG1" target="4q3ewBCX7sLwd24euuV69X"/>
+<edge source="4q3ewBCX7sLwd24euuV69X" target="reggaeton"/>
+<edge source="4q3ewBCX7sLwd24euuV69X" target="trap latino"/>
+<edge source="4q3ewBCX7sLwd24euuV69X" target="urbano latino"/>
+<edge source="trap latino" target="1wGIhYkKWSq4yACtTkCkSX"/>
+<edge source="urbano latino" target="1wGIhYkKWSq4yACtTkCkSX"/>
+<edge source="5PGMTslc0lwjAmbYC4b9B6" target="6jlSEjqfJnED7otnU0lRoy"/>
+<edge source="5PGMTslc0lwjAmbYC4b9B6" target="2x6JVTDJNTmVZxxOGYZKND"/>
+<edge source="5PGMTslc0lwjAmbYC4b9B6" target="1Emea6iLt1X27HTatnL7oV"/>
+<edge source="5PGMTslc0lwjAmbYC4b9B6" target="0jhPpyUbC4zYPoNWJ0PQLt"/>
+<edge source="6jlSEjqfJnED7otnU0lRoy" target="euskal reggae"/>
+<edge source="6jlSEjqfJnED7otnU0lRoy" target="5bd81aIHJgQ4RYK0jkZSZR"/>
+<edge source="3JvKfv6T31zO0ini8iNItO" target="2txHhyCwHjUEpJjWrEyqyX"/>
+<edge source="2txHhyCwHjUEpJjWrEyqyX" target="chill pop"/>
+<edge source="1s9i7W8zx7Nxx78MUIsvjV" target="63MQldklfxkjYDoUE4Tppz"/>
+<edge source="63MQldklfxkjYDoUE4Tppz" target="french shoegaze"/>
+<edge source="63MQldklfxkjYDoUE4Tppz" target="french synthpop"/>
+<edge source="63MQldklfxkjYDoUE4Tppz" target="indietronica"/>
+<edge source="63MQldklfxkjYDoUE4Tppz" target="metropopolis"/>
+<edge source="63MQldklfxkjYDoUE4Tppz" target="neo-synthpop"/>
+<edge source="63MQldklfxkjYDoUE4Tppz" target="08wnOyN1wyMaNrup3m353f"/>
+<edge source="6xGruZOHLs39ZbVccQTuPZ" target="3MZsBdqDrRTJihTHQrO6Dq"/>
+<edge source="3MZsBdqDrRTJihTHQrO6Dq" target="viral pop"/>
+<edge source="viral pop" target="2WX2uTcsvV5OnS0inACecP"/>
+<edge source="2Kz5qeXifBxE0zmuoVchlM" target="2WX2uTcsvV5OnS0inACecP"/>
+<edge source="2WX2uTcsvV5OnS0inACecP" target="neo mellow"/>
+<edge source="2WX2uTcsvV5OnS0inACecP" target="uk pop"/>
+<edge source="2WX2uTcsvV5OnS0inACecP" target="5sF7hdYvhrcgNq8NZjfK8L"/>
+<edge source="2WX2uTcsvV5OnS0inACecP" target="0HRshWRNAwQBROvxXqG3i9"/>
+<edge source="2WX2uTcsvV5OnS0inACecP" target="1En99nPXGfJS8pgU1UiU0s"/>
+<edge source="6me7F0aaZjwDo6RJ5MrfBD" target="4qU7IJSReZnsLy5907Mtau"/>
+<edge source="4qU7IJSReZnsLy5907Mtau" target="modern folk rock"/>
+<edge source="6pWgRkpqVfxnj3WuIcJ7WP" target="0YC192cP3KPCRWx8zr8MfZ"/>
+<edge source="0YC192cP3KPCRWx8zr8MfZ" target="german soundtrack"/>
+<edge source="0YC192cP3KPCRWx8zr8MfZ" target="orchestral soundtrack"/>
+<edge source="0YC192cP3KPCRWx8zr8MfZ" target="soundtrack"/>
+<edge source="0YC192cP3KPCRWx8zr8MfZ" target="6ZFbXIJkuI1dVNWvzJzown"/>
+<edge source="5iu3rl4feYeRgR1DW0ydNU" target="33NVpKoXjItPwUJTMZIOiY"/>
+<edge source="6zWU7YALeEDMcPGhKKZJhV" target="3ycxRkcZ67ALN3GQJ57Vig"/>
+<edge source="3ycxRkcZ67ALN3GQJ57Vig" target="alternative r&amp;b"/>
+<edge source="3ycxRkcZ67ALN3GQJ57Vig" target="indie soul"/>
+<edge source="780be5fB7823aHG06mwTat" target="3MyFDtqB80WZvbtCZRsekM"/>
+<edge source="3MyFDtqB80WZvbtCZRsekM" target="minimal tech house"/>
+<edge source="3MyFDtqB80WZvbtCZRsekM" target="tropical house"/>
+<edge source="3qhlB30KknSejmIvZZLjOD" target="5p9HO3XC5P3BLxJs5Mtrhm"/>
+<edge source="5p9HO3XC5P3BLxJs5Mtrhm" target="psychedelic pop"/>
+<edge source="5PNvgiKSwMdjBsDsgFCFLX" target="0ukgrNYk51TkMQr0f2Br4Q"/>
+<edge source="5PNvgiKSwMdjBsDsgFCFLX" target="1CoZyIx7UvdxT5c8UkMzHd"/>
+<edge source="5PNvgiKSwMdjBsDsgFCFLX" target="28uJnu5EsrGml2tBd7y8ts"/>
+<edge source="5PNvgiKSwMdjBsDsgFCFLX" target="6jmHuLfbWlq34KedQ7mA5I"/>
+<edge source="0ukgrNYk51TkMQr0f2Br4Q" target="irish hip hop"/>
+<edge source="1CoZyIx7UvdxT5c8UkMzHd" target="uk contemporary r&amp;b"/>
+<edge source="28uJnu5EsrGml2tBd7y8ts" target="brazilian edm"/>
+<edge source="brazilian edm" target="6jmHuLfbWlq34KedQ7mA5I"/>
+<edge source="6jmHuLfbWlq34KedQ7mA5I" target="relaxative"/>
+<edge source="6VzcQuzTNTMFnJ6rBSaLH9" target="6KImCVD70vtIoJWnq6nGn3"/>
+<edge source="447r2keRxpkINmWYp83MlH" target="1wGIhYkKWSq4yACtTkCkSX"/>
+<edge source="1wGIhYkKWSq4yACtTkCkSX" target="boom bap espanol"/>
+<edge source="1wGIhYkKWSq4yACtTkCkSX" target="rap conciencia"/>
+<edge source="1wGIhYkKWSq4yACtTkCkSX" target="rap politico"/>
+<edge source="1wGIhYkKWSq4yACtTkCkSX" target="venezuelan hip hop"/>
+<edge source="0Gr2XQOIMaaUH86iOrWGur" target="3fYr24qYhJejxewFrckFE4"/>
+<edge source="0ofHAoxe9vBkTCp2UQIavz" target="08GQAI4eElDnROBrJRGE0X"/>
+<edge source="08GQAI4eElDnROBrJRGE0X" target="album rock"/>
+<edge source="08GQAI4eElDnROBrJRGE0X" target="classic rock"/>
+<edge source="08GQAI4eElDnROBrJRGE0X" target="rock"/>
+<edge source="08GQAI4eElDnROBrJRGE0X" target="soft rock"/>
+<edge source="08GQAI4eElDnROBrJRGE0X" target="yacht rock"/>
+</graph></graphml>
